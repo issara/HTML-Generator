@@ -1,0 +1,13 @@
+BODY_BACKGROUND	rgb(100,50,255)
+CELL_BACKGROUND1	lightblue
+CELL_BACKGROUND2	darkblue
+TABLE_BORDER_COLOR	gray
+TABLE_BORDER_PX	7
+AUTHORS	Pong and Ari
+TITLE	Camel Pride
+IMAGES
+cam1.png	cam2.png	cam3.png
+chung2.png	chung3.png	chung1.png
+lee1.jpg	cam4.png	lee2.png
+ozg3.png	ozg2.jpg	ozg1.png
+cam5.png	cam6.png	cam7.png

@@ -1,0 +1,14 @@
+BODY_BACKGROUND	#770088
+CELL_BACKGROUND1	red
+CELL_BACKGROUND2	pink
+TABLE_BORDER_COLOR	black
+TABLE_BORDER_PX	10
+AUTHORS	Pong and Ari
+TITLE	Many friends
+IMAGES
+cam1.png	gates1.png	chung3.png	cam4.png
+zuck1.png	cam6.png	ozg1.png	chung1.png
+chung2.png	gates2.png	cam2.png	jobs2.jpg
+gates4.png	lee2.png	jobs1.png	cam3.png
+ozg3.png	zuck2.png	cam7.png	ozg2.jpg
+lee1.jpg	cam5.png	gates3.png	zuck3.jpg
